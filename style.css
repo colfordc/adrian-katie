@@ -15,38 +15,24 @@ body{
 	line-height: 1.35;
 }
 
+h1{
+	font-size: 30px;
+}
+
 h2{
 	font-size: 20px;
-}
 
-h3{
-	font-size: 18px;
 }
-
 
 header{
 	padding: 2%;
 	overflow: hidden;
 }
 
-header h2{
-	float:  left;
-	font-size: 20px;
-}
 
-header nav{
-	float: right;
+a{
+	color: #be9d66;
 }
-
-header a{
-	text-decoration: none;
-	color:  black;
-}
-
-header a:hover{
-	text-decoration: underline;
-}
-
 
 
 
@@ -105,25 +91,25 @@ header a:hover{
 	}
 
 	body{
-		font-family:  Helvetica, sans-serif;
+		font-family:  Baskerville Neo Display, Helvetica, sans-serif;
 		font-size:  25px;
 		line-height: 1.25;
 	}
 
 	h3{	
-		font-family:  Helvetica, sans-serif;
+		font-family:  Baskerville Neo Display, Helvetica, sans-serif;
 		font-size:  27px;
 		line-height:  1.25;
 	}
 
 	h2{
-		font-family:  Helvetica, sans-serif;
+		font-family:  Baskerville Neo Display, Helvetica, sans-serif;
 		font-size:  30px;
 		line-height:  1.25;
 	}
 
 	header h2{
-		font-family:  Helvetica, sans-serif;
+		font-family:  Baskerville Neo Display, Helvetica, sans-serif;
 		font-size:  30px;
 		line-height:  1.25;
 	}
