@@ -91,26 +91,21 @@ a{
 	}
 
 	body{
-		font-family:  Baskerville Neo Display, Helvetica, sans-serif;
+		font-family:  Garamond, Helvetica, sans-serif;
 		font-size:  25px;
 		line-height: 1.25;
 	}
 
-	h3{	
-		font-family:  Baskerville Neo Display, Helvetica, sans-serif;
-		font-size:  27px;
-		line-height:  1.25;
-	}
-
+	
 	h2{
-		font-family:  Baskerville Neo Display, Helvetica, sans-serif;
-		font-size:  30px;
+		font-family:  Garamond, Helvetica, sans-serif;
+		font-size:  40px;
 		line-height:  1.25;
 	}
 
-	header h2{
-		font-family:  Baskerville Neo Display, Helvetica, sans-serif;
-		font-size:  30px;
+	h1{
+		font-family:  Garamond, Helvetica, sans-serif;
+		font-size:  60px;
 		line-height:  1.25;
 	}
 
